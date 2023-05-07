@@ -1,5 +1,5 @@
 # Setting Up Windows For YOLOv5 Object Detection
-- If you have NVIDIA Graphics Card on your device, you can [run YOLOv5 using local GPU support](README.md#Running-YOLOv5-with-local-NVIDIA-GPU-support). If you don't have an NVIDIA Graphics Card, you need to run YOLOv5 using a CPU.
+- If you have NVIDIA Graphics Card on your device, you can [run YOLOv5 using local GPU support](README.md#Running-YOLOv5-with-local-NVIDIA-GPU-support). If you don't have an NVIDIA Graphics Card, you need to [run YOLOv5 using CPU](README.md#Running-YOLOv5-with-CPU)
 - Both of these methods will be explained further below.
 
 ## Running YOLOv5 with local NVIDIA GPU support
@@ -52,6 +52,4 @@
     - `cd yolov5`
     - `pip install -r requirements.txt`
 
-
-
-# Installing YOLOv5 Repository
+## Running YOLOv5 with CPU
